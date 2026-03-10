@@ -179,21 +179,6 @@ https://v6.exchangerate-api.com/v6/{API_KEY}/pair/{MONEDA_ORIGEN}/{MONEDA_DESTIN
 4. **Parseo JSON**: la respuesta se procesa con `Gson` para extraer la tasa de conversión.
 5. **Cálculo y muestra**: se multiplica el monto ingresado por la tasa y se muestra el resultado.
 
----
 
-## 📌 Posibles Mejoras (Extras)
 
-- [ ] Historial de conversiones guardado en archivo `.txt`
-- [ ] Soporte para más monedas (CLP, BOB, etc.)
-- [ ] Marca de tiempo en cada conversión
-- [ ] Interfaz gráfica con JavaFX o Swing
 
----
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines educativos como parte del programa **Oracle Next Education (ONE)** con **Alura Latam**.
-
----
-
-*Desarrollado con ❤️ como parte del Challenge ONE — Alura + Oracle*
